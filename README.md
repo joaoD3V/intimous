@@ -2,7 +2,7 @@
 
 # IntiMous
 
-UI Clone da página inicial de um e-commerce.
+UI Clone da página inicial de um e-commerce, sem usar nenhuma lib ou framework. 
 
 ------------
 
