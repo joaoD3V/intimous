@@ -18,4 +18,4 @@ UI Clone da página inicial de um e-commerce, sem usar nenhuma lib ou framework.
 
 **Acesse o link abaixo para visualizar o site na web**
 
-[https://intimous.vercel.app/](https://intimous.vercel.app/)
+[https://intimous-joaod3v.vercel.app/](https://intimous-joaod3v.vercel.app/)
